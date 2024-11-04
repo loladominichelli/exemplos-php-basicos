@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $senha = $_POST['senha'];
 
     // Compara os dados (Verifica se são válidos)
-    if ($usuario =='Max Verstappen' && $senha == '123') {
+    if ($usuario =='Eloah' && $senha == '123') {
 
         // Se sim (Salva o nome do usuario)
         $_SESSION['usuario'] = $usuario;

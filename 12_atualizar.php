@@ -1,5 +1,5 @@
 <!-- Passar id via URL -->
-<!-- http://localhost/php-exemplos-basicos/12_atualizar.php?id=1-->
+<!-- http://localhost/exemplos-php-basicos/12_atualizar.php?id=1-->
 
 
 <?php
